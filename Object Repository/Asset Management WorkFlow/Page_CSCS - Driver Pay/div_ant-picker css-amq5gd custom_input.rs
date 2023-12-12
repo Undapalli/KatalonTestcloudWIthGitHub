@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ant-picker css-amq5gd custom_input</name>
+   <tag></tag>
+   <elementGuidId>59027ab4-7f0a-4da3-83de-3ec734a4ba80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div[2]/div/div[7]/span[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0d151069-2f37-4b7b-af5c-d2c98267220a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-picker css-amq5gd custom_input</value>
+      <webElementGuid>f156a34a-4b7a-46f6-b0af-e0f4e7ea035c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;sidePage&quot;]/div[@class=&quot;sidebody&quot;]/div[@class=&quot;borderWrapper&quot;]/div[@class=&quot;customInputContainer&quot;]/div[@class=&quot;customInputFieldWrapper&quot;]/span[2]/div[@class=&quot;ant-picker css-amq5gd custom_input&quot;]</value>
+      <webElementGuid>f7c01242-0f1c-4024-910f-04c25ba1e669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div[2]/div/div[7]/span[2]/div</value>
+      <webElementGuid>d59d0b40-0c2b-46ee-9022-3a1b1aea0f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/span[2]/div</value>
+      <webElementGuid>d2770d5f-a1a5-4bd4-b679-a09b387bbe47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

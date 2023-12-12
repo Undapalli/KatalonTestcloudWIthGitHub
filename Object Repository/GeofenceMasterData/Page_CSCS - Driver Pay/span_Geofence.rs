@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Geofence</name>
+   <tag></tag>
+   <elementGuidId>94df6580-9be3-449d-9afc-b813b6d2034e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/nav/ul/li[7]/div[2]/div/ul/li[8]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>22fe5e80-c147-4ddc-bdc1-7e38345b552d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pro-item-content</value>
+      <webElementGuid>5e6e3595-0ab7-44eb-bb9c-426ac2b4100b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Geofence </value>
+      <webElementGuid>e15f75cd-1d85-4c5d-aa62-f263b1475266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;pro-sidebar&quot;]/div[@class=&quot;pro-sidebar-inner&quot;]/div[@class=&quot;pro-sidebar-layout&quot;]/div[@class=&quot;pro-sidebar-content&quot;]/nav[@class=&quot;pro-menu inner-submenu-arrows&quot;]/ul[1]/li[@class=&quot;pro-menu-item pro-sub-menu open&quot;]/div[@class=&quot;react-slidedown pro-inner-list-item&quot;]/div[1]/ul[1]/li[@class=&quot;pro-menu-item pro-sub-menu&quot;]/div[@class=&quot;pro-inner-item&quot;]/span[@class=&quot;pro-item-content&quot;]</value>
+      <webElementGuid>75edcff3-e46e-468e-874d-f7fb8b4c1745</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/nav/ul/li[7]/div[2]/div/ul/li[8]/div/span[2]</value>
+      <webElementGuid>c1f39209-e749-4241-b41e-2aec29b406c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div[2]/div/ul/li[8]/div/span[2]</value>
+      <webElementGuid>12dba6ef-80d1-4b4f-ba60-276d34271ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Geofence ' or . = 'Geofence ')]</value>
+      <webElementGuid>ea9b4559-ac49-4247-bbff-0f530c64eba6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

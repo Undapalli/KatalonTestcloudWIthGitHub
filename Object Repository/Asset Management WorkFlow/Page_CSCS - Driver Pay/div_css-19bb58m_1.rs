@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_css-19bb58m_1</name>
+   <tag></tag>
+   <elementGuidId>7d25a83f-bdfb-4b0d-aafa-7356e1893fc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div[2]/div/div[4]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c28fd1f4-119f-4c39-b979-c46e0400544f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-19bb58m</value>
+      <webElementGuid>faa68e0d-3fdb-4e25-a0a2-150f7728fc9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;sidePage&quot;]/div[@class=&quot;sidebody&quot;]/div[@class=&quot;borderWrapper&quot;]/div[@class=&quot;customInputContainer&quot;]/div[@class=&quot;customInputFieldWrapper&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;custom_input css-t3ipsp-control&quot;]/div[@class=&quot;css-hlgwow&quot;]/div[@class=&quot;css-19bb58m&quot;]</value>
+      <webElementGuid>1efad205-1624-4e7c-8976-8a1a21cf5424</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div[2]/div/div[4]/div/div/div/div[2]</value>
+      <webElementGuid>f86f1c31-677d-4706-873f-6424380fd0a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]</value>
+      <webElementGuid>38e8c88f-e816-47b9-8a5a-e9510df78799</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select Manager</name>
+   <tag></tag>
+   <elementGuidId>6211209d-c3c4-4b0a-a6a3-44368bc247f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='undefined_undefined'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9bb2329-9abe-4feb-9513-b11ef680e485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cscsButton </value>
+      <webElementGuid>0c944f2a-3785-4484-8a38-21e630f30eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>undefined_undefined</value>
+      <webElementGuid>14f61f76-c894-4e9f-b90e-565b36954b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Manager</value>
+      <webElementGuid>a9dbaa34-00b3-4a9c-80fb-382905eb85c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;sidePage&quot;]/div[@class=&quot;sidebody&quot;]/div[@class=&quot;borderWrapper&quot;]/div[@class=&quot;d-flex flex-wrap justify-content-between&quot;]/div[@class=&quot;flex-md-fill flex-sm-fill&quot;]/div[@class=&quot;d-flex justify-content-between&quot;]/div[@class=&quot;m-3&quot;]/div[@class=&quot;buttonGroup mb-1&quot;]/div[1]/button[@id=&quot;undefined_undefined&quot;]</value>
+      <webElementGuid>9a17c6d7-fab4-4357-bfc4-d24953a18518</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='undefined_undefined'])[2]</value>
+      <webElementGuid>ccde4de3-8205-4a45-9786-1486f3fa8346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div[2]/div[2]/div[2]/div/div/div/div/button</value>
+      <webElementGuid>388608ac-d617-448f-a66c-b2fcd55d85f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/button</value>
+      <webElementGuid>fdc24859-865f-4d1e-a9bd-665e3427a9fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'undefined_undefined' and (text() = 'Select Manager' or . = 'Select Manager')]</value>
+      <webElementGuid>830b993e-6cf5-4d0d-8e3f-38b202c51354</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

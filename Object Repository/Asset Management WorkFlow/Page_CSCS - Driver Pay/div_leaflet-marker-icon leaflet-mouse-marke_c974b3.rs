@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_leaflet-marker-icon leaflet-mouse-marke_c974b3</name>
+   <tag></tag>
+   <elementGuidId>7a3727a0-648e-4ce2-836f-e10622a42c75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.leaflet-marker-icon.leaflet-mouse-marker.leaflet-zoom-animated.leaflet-interactive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[2]/div[2]/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d01c253-1fac-4a53-b937-f2d995dbbf6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leaflet-marker-icon leaflet-mouse-marker leaflet-zoom-animated leaflet-interactive</value>
+      <webElementGuid>ded16afd-9269-42e1-bc5e-3576685678e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b4f69d78-826a-485c-b68a-1af67cb0f36a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e08a5148-3042-4fda-a7fa-36d3d677ce30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;sidePage&quot;]/div[@class=&quot;sidebody&quot;]/div[1]/div[@class=&quot;borderWrapper&quot;]/div[@class=&quot;leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom&quot;]/div[@class=&quot;leaflet-pane leaflet-map-pane&quot;]/div[@class=&quot;leaflet-pane leaflet-marker-pane&quot;]/div[@class=&quot;leaflet-marker-icon leaflet-mouse-marker leaflet-zoom-animated leaflet-interactive&quot;]</value>
+      <webElementGuid>acbfe99f-995c-4134-8b40-e37b00f3bbad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[2]/div[2]/div/div[4]/div</value>
+      <webElementGuid>ec806afb-6cc7-4443-99ac-41cd5cf3ad44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>5afd8340-5b4b-4641-abaf-cea6146f613a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

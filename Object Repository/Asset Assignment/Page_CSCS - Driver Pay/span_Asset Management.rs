@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Asset Management</name>
+   <tag></tag>
+   <elementGuidId>171f7da5-9d2a-4176-bb0d-91564bc0f8b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/nav/ul/li[7]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c136c90-17e8-462f-a711-55b31443b5c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pro-item-content</value>
+      <webElementGuid>bf6a45e6-ff2e-4468-bd66-318fd27d4d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asset Management</value>
+      <webElementGuid>856b55ef-2ea5-4326-ae94-c2f4252fd935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;pro-sidebar&quot;]/div[@class=&quot;pro-sidebar-inner&quot;]/div[@class=&quot;pro-sidebar-layout&quot;]/div[@class=&quot;pro-sidebar-content&quot;]/nav[@class=&quot;pro-menu inner-submenu-arrows&quot;]/ul[1]/li[@class=&quot;pro-menu-item pro-sub-menu&quot;]/div[@class=&quot;pro-inner-item&quot;]/span[@class=&quot;pro-item-content&quot;]</value>
+      <webElementGuid>d03b4004-d258-40f8-a043-235bdfb898ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/nav/ul/li[7]/div/span[2]</value>
+      <webElementGuid>e3b0b715-9e5d-43c8-b893-22231c9d32a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div/span[2]</value>
+      <webElementGuid>6473066f-47b7-4b55-bfa8-38f5d3fd7aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Asset Management' or . = 'Asset Management')]</value>
+      <webElementGuid>86aa4b82-5842-420a-acfd-075edd7b6282</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

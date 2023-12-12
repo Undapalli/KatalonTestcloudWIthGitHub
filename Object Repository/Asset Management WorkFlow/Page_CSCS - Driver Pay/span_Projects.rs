@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Projects</name>
+   <tag></tag>
+   <elementGuidId>0a5f36ed-bc97-424b-b68b-9fd8db739212</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > ul > li.pro-menu-item.pro-sub-menu.open > div.react-slidedown.pro-inner-list-item > div > ul > li.pro-menu-item > div.pro-inner-item > span.pro-item-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/nav/ul/li[7]/div[2]/div/ul/li[2]/div[2]/div/ul/li/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>36c12466-6c53-4eff-846e-806895f243bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pro-item-content</value>
+      <webElementGuid>f50a4562-4eff-45ae-9707-daa2212dacf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Projects</value>
+      <webElementGuid>292804fb-f652-450d-b39e-74e0b340c0f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;pro-sidebar&quot;]/div[@class=&quot;pro-sidebar-inner&quot;]/div[@class=&quot;pro-sidebar-layout&quot;]/div[@class=&quot;pro-sidebar-content&quot;]/nav[@class=&quot;pro-menu inner-submenu-arrows&quot;]/ul[1]/li[@class=&quot;pro-menu-item pro-sub-menu open&quot;]/div[@class=&quot;react-slidedown pro-inner-list-item&quot;]/div[1]/ul[1]/li[@class=&quot;pro-menu-item pro-sub-menu open&quot;]/div[@class=&quot;react-slidedown pro-inner-list-item&quot;]/div[1]/ul[1]/li[@class=&quot;pro-menu-item&quot;]/div[@class=&quot;pro-inner-item&quot;]/span[@class=&quot;pro-item-content&quot;]</value>
+      <webElementGuid>e8769ff1-0851-48aa-9810-21e67373195e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/nav/ul/li[7]/div[2]/div/ul/li[2]/div[2]/div/ul/li/div/span[2]</value>
+      <webElementGuid>ae47f3d4-427f-46f5-81b7-35f7790af534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div[2]/div/ul/li[2]/div[2]/div/ul/li/div/span[2]</value>
+      <webElementGuid>67c5c275-f7c5-42de-916e-48e4c0a9847b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Projects' or . = 'Projects')]</value>
+      <webElementGuid>904b9b28-d608-4b1f-9a94-ca7675763b56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

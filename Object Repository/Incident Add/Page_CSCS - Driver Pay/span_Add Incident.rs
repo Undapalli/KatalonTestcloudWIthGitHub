@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Incident</name>
+   <tag></tag>
+   <elementGuidId>cef2dea0-37e5-4539-9eaf-5ff87f565864</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/nav/ul/li[7]/div[2]/div/ul/li[5]/div[2]/div/ul/li[2]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>04434bc8-bfc9-4949-be1e-30f9e7ae43bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pro-item-content</value>
+      <webElementGuid>c4948fe4-0186-456d-88d4-19487d17556c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Incident</value>
+      <webElementGuid>f8dac315-f56f-43d3-94af-2a0ce284f6f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;pro-sidebar&quot;]/div[@class=&quot;pro-sidebar-inner&quot;]/div[@class=&quot;pro-sidebar-layout&quot;]/div[@class=&quot;pro-sidebar-content&quot;]/nav[@class=&quot;pro-menu inner-submenu-arrows&quot;]/ul[1]/li[@class=&quot;pro-menu-item pro-sub-menu open&quot;]/div[@class=&quot;react-slidedown pro-inner-list-item&quot;]/div[1]/ul[1]/li[@class=&quot;pro-menu-item pro-sub-menu open&quot;]/div[@class=&quot;react-slidedown pro-inner-list-item&quot;]/div[1]/ul[1]/li[@class=&quot;pro-menu-item&quot;]/div[@class=&quot;pro-inner-item&quot;]/span[@class=&quot;pro-item-content&quot;]</value>
+      <webElementGuid>e445c01f-1b11-4d38-baf6-c7fce650ceda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/nav/ul/li[7]/div[2]/div/ul/li[5]/div[2]/div/ul/li[2]/div/span[2]</value>
+      <webElementGuid>2ed52854-c271-4839-86ff-35ab507a5abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div[2]/div/ul/li[5]/div[2]/div/ul/li[2]/div/span[2]</value>
+      <webElementGuid>7bf15aeb-5135-4a48-a49e-de1ef01dc9ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Incident' or . = 'Add Incident')]</value>
+      <webElementGuid>9d381c14-d683-4f73-a72b-089986194adb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

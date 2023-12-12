@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_pro-arrow-wrapper</name>
+   <tag></tag>
+   <elementGuidId>a1c9b403-6098-4996-9fe4-2765c80fe281</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/nav/ul/li[7]/div[2]/div/ul/li[8]/div/span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > ul > li.pro-menu-item.pro-sub-menu.open > div.pro-inner-item > span.pro-arrow-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>312f4576-d7e5-4837-9106-8a8252016ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pro-arrow-wrapper</value>
+      <webElementGuid>718ab6fa-3f35-4f17-b05a-824220cf58e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;pro-sidebar&quot;]/div[@class=&quot;pro-sidebar-inner&quot;]/div[@class=&quot;pro-sidebar-layout&quot;]/div[@class=&quot;pro-sidebar-content&quot;]/nav[@class=&quot;pro-menu inner-submenu-arrows&quot;]/ul[1]/li[@class=&quot;pro-menu-item pro-sub-menu open&quot;]/div[@class=&quot;react-slidedown pro-inner-list-item&quot;]/div[1]/ul[1]/li[@class=&quot;pro-menu-item pro-sub-menu open&quot;]/div[@class=&quot;pro-inner-item&quot;]/span[@class=&quot;pro-arrow-wrapper&quot;]</value>
+      <webElementGuid>606e4aea-6a33-4cc5-914f-8739e07599d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/nav/ul/li[7]/div[2]/div/ul/li[8]/div/span[3]</value>
+      <webElementGuid>f06e8069-640f-4b6b-88fb-85493c476ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/div/span[3]</value>
+      <webElementGuid>f8398ebb-bbcc-467e-823b-c9b73269b87a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TypeExcavatorStart Date07222021 End Dat_5fbb64</name>
+   <tag></tag>
+   <elementGuidId>e903e670-b572-44bf-b411-ef0da0b29d31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[3]/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>24e131a2-5eed-4b41-be3c-72e5265ce1d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>customViewWrapper</value>
+      <webElementGuid>d729b19b-cbe4-4f49-bbe1-c27be506b27b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TypeExcavatorStart Date07/22/2021 End Date07/25/2030 AssetASC_566ASC_566Assign</value>
+      <webElementGuid>1afb4fd6-0653-4669-b864-84f852b27207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;sidePage&quot;]/div[@class=&quot;sidebody&quot;]/div[@class=&quot;assetAssignment-container&quot;]/div[@class=&quot;asset-container&quot;]/div[@class=&quot;assetWrapper&quot;]/div[@class=&quot;customViewWrapper&quot;]</value>
+      <webElementGuid>87eb5bbb-83f5-4050-b52e-eea4076a407f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[3]/div/div[3]</value>
+      <webElementGuid>fa9f3db9-583f-4393-b2ae-53d35ae83a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]</value>
+      <webElementGuid>55dc3ed0-7204-4b1c-8b62-27d7536ddd61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TypeExcavatorStart Date07/22/2021 End Date07/25/2030 AssetASC_566ASC_566Assign' or . = 'TypeExcavatorStart Date07/22/2021 End Date07/25/2030 AssetASC_566ASC_566Assign')]</value>
+      <webElementGuid>d7795eed-eba8-4a75-9ec4-07bf7b133b9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

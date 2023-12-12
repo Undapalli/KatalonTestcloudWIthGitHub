@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Assets</name>
+   <tag></tag>
+   <elementGuidId>4cf68321-a286-49ca-9b60-d5f9156b37ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/aside/div/nav[2]/ul/li[7]/div/ul/li[6]/div/ul/li/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ps-submenu-content.ps-open.css-z5rm24 > ul.css-ewdv3l > li.ps-menuitem-root.css-x3jz15 > a.ps-menu-button > span.ps-menu-label.css-12w9als</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>275c788f-77e2-41fb-b6b2-90a8c7f57c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ps-menu-label css-12w9als</value>
+      <webElementGuid>298f8b99-1f0c-4e53-8917-44df41536acd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assets</value>
+      <webElementGuid>43db919d-bdd8-4bfd-8603-a5b8bd9ec8e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/aside[@class=&quot;ps-sidebar-root sidebar css-1wvake5&quot;]/div[@class=&quot;ps-sidebar-container css-dip3t8&quot;]/nav[@class=&quot;ps-menu-root css-vj11vy&quot;]/ul[@class=&quot;css-ewdv3l&quot;]/li[@class=&quot;ps-menuitem-root ps-submenu-root ps-open css-16jesut&quot;]/div[@class=&quot;ps-submenu-content ps-open css-z5rm24&quot;]/ul[@class=&quot;css-ewdv3l&quot;]/li[@class=&quot;ps-menuitem-root ps-submenu-root ps-open css-1ffbfs&quot;]/div[@class=&quot;ps-submenu-content ps-open css-z5rm24&quot;]/ul[@class=&quot;css-ewdv3l&quot;]/li[@class=&quot;ps-menuitem-root css-x3jz15&quot;]/a[@class=&quot;ps-menu-button&quot;]/span[@class=&quot;ps-menu-label css-12w9als&quot;]</value>
+      <webElementGuid>67938527-1c8f-4592-9ae8-a9db3b11862e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/aside/div/nav[2]/ul/li[7]/div/ul/li[6]/div/ul/li/a/span[2]</value>
+      <webElementGuid>50cf1631-fd47-41dd-aaa9-1d26fb720266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[6]/div/ul/li/a/span[2]</value>
+      <webElementGuid>4bef883a-1ffb-421c-90c6-28e8ffbc2ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Assets' or . = 'Assets')]</value>
+      <webElementGuid>408b7a1e-c05f-4a31-a35c-e8bface28936</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

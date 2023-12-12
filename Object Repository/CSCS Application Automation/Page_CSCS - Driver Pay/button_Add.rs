@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add</name>
+   <tag></tag>
+   <elementGuidId>6adc0517-4fd6-4d3c-902d-7470358d3e4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/div/table/thead/tr[2]/th[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b01bca7b-9512-4f95-bf50-ad2f954416ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cscsButton actionButtons </value>
+      <webElementGuid>934a0de3-69ec-4c90-85b4-7c1e99703bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>baafe19c-7396-45e7-9d19-e2dfaf4da3d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;sidePage&quot;]/div[@class=&quot;sidebody&quot;]/div[1]/div[@class=&quot;componentWrapper&quot;]/div[@class=&quot;tableContainer densityStandard&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;outer-wrapper&quot;]/div[@class=&quot;input-table-wrapper&quot;]/table[@class=&quot;table table-hover&quot;]/thead[1]/tr[@class=&quot;tableInputHead&quot;]/th[@class=&quot;buttonHead actionButtons&quot;]/button[@class=&quot;cscsButton actionButtons&quot;]</value>
+      <webElementGuid>78748800-fc86-416c-9321-cc7e1016d66a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/div/table/thead/tr[2]/th[4]/button</value>
+      <webElementGuid>1a28b1c4-9ece-400f-93a0-453dcaaf7568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/button</value>
+      <webElementGuid>ba0856f3-465e-4f01-806f-85402b14da37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>a916cda3-381c-4f48-8952-578fa4e29d17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

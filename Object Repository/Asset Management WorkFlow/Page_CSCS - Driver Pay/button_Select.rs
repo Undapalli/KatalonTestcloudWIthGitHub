@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select</name>
+   <tag></tag>
+   <elementGuidId>37947c0a-b9bb-4252-9913-c6a1b180c355</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > button.cscsButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='portal']/div/div/div[2]/div[2]/div/div/table/tbody/tr/td/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f405ab81-d8cd-40b0-abf4-02a601bccb54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cscsButton</value>
+      <webElementGuid>04fa41e7-4523-4ceb-9a38-e6f987e5809d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>910a5f15-4ae3-434f-9576-8d7dcec2a98e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;portal&quot;)/div[@class=&quot;ModalContainer&quot;]/div[@class=&quot;ModalWrapper&quot;]/div[@class=&quot;ModalContent&quot;]/div[@class=&quot;modal_selectTable tableContainer&quot;]/div[@class=&quot;outer-wrapper&quot;]/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;table table-hover&quot;]/tbody[1]/tr[1]/td[1]/button[@class=&quot;cscsButton&quot;]</value>
+      <webElementGuid>cd01f989-1263-4bec-a544-b9eadf536049</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='portal']/div/div/div[2]/div[2]/div/div/table/tbody/tr/td/button</value>
+      <webElementGuid>187a19e4-5f00-40b9-aa14-464bb95fee80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/button</value>
+      <webElementGuid>6a309f1f-7b2c-436b-ba80-55a3352c31c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>402b871d-fad1-4ffd-a21a-be69eb950ecb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

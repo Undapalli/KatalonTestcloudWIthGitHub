@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Project Types</name>
+   <tag></tag>
+   <elementGuidId>1dd40775-31cf-4206-bfc1-0108963ea6a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/aside/div/nav[2]/ul/li[5]/div/ul/li[15]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06b5d6d0-da9f-4887-a6fc-c3a9cecd2d1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ps-menu-label css-12w9als</value>
+      <webElementGuid>2382d103-2b98-4aa9-ba26-e37cab5fb787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Project Types</value>
+      <webElementGuid>3650fc6c-2f89-4b18-9b16-3a2fa1715cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/aside[@class=&quot;ps-sidebar-root sidebar css-1wvake5&quot;]/div[@class=&quot;ps-sidebar-container css-dip3t8&quot;]/nav[@class=&quot;ps-menu-root css-vj11vy&quot;]/ul[@class=&quot;css-ewdv3l&quot;]/li[@class=&quot;ps-menuitem-root ps-submenu-root ps-open css-16jesut&quot;]/div[@class=&quot;ps-submenu-content ps-open css-z5rm24&quot;]/ul[@class=&quot;css-ewdv3l&quot;]/li[@class=&quot;ps-menuitem-root css-1tqrhto&quot;]/a[@class=&quot;ps-menu-button&quot;]/span[@class=&quot;ps-menu-label css-12w9als&quot;]</value>
+      <webElementGuid>be31f995-5bc2-40e6-bae4-e85fa2d44ff3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/aside/div/nav[2]/ul/li[5]/div/ul/li[15]/a/span[2]</value>
+      <webElementGuid>5e8abaf8-fce3-43fe-a0e5-9cc8f8dd8214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[15]/a/span[2]</value>
+      <webElementGuid>97ffd602-275f-429c-8d11-2696e6918094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Project Types' or . = 'Project Types')]</value>
+      <webElementGuid>c257622e-3e8a-4078-9138-2570bf488dd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

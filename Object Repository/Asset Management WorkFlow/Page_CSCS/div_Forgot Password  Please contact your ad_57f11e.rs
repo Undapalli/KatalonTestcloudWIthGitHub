@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Forgot Password  Please contact your ad_57f11e</name>
+   <tag></tag>
+   <elementGuidId>3c3d4b66-ed78-41dc-a29d-461d87eeb6b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.justify-content-center.mt-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e28c867-5b08-488f-bda1-ff08f2f54beb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex justify-content-center mt-4</value>
+      <webElementGuid>f3ca8436-febf-463b-9d6a-2833cf84c27b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forgot Password ? Please contact your admin to reset your password</value>
+      <webElementGuid>06c8b372-3bb9-477b-9664-94ebe4b3446e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;row w-100 vh-100 m-0&quot;]/div[@class=&quot;col-6 p-0&quot;]/div[@class=&quot;mb-5&quot;]/div[@class=&quot;d-flex justify-content-center mt-4&quot;]</value>
+      <webElementGuid>c56e6c17-b93f-4545-b509-56a88c5741c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>46715850-5f57-48f0-804b-a917a64d9127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>0554caeb-1a18-4e91-85bd-c211a8815700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Forgot Password ? Please contact your admin to reset your password' or . = 'Forgot Password ? Please contact your admin to reset your password')]</value>
+      <webElementGuid>c6919c66-86f1-4b96-abd7-8916f77fa3b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

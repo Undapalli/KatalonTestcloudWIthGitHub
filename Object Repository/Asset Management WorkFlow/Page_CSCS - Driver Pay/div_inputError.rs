@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_inputError</name>
+   <tag></tag>
+   <elementGuidId>7249b7cf-461f-4ccf-8e58-df46f727efd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(4) > div.inputError</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div[4]/div/div[2]/div/div/div[2]/div/table/thead/tr[2]/th[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>265dd139-04f0-418f-8ef7-25e8df3b8475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inputError</value>
+      <webElementGuid>03249d36-476f-4a51-a8f0-f174ced700c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;sidePage&quot;]/div[@class=&quot;sidebody&quot;]/div[4]/div[@class=&quot;componentWrapper&quot;]/div[@class=&quot;borderWrapper&quot;]/div[@class=&quot;tableContainer densityStandard&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;outer-wrapper&quot;]/div[@class=&quot;input-table-wrapper&quot;]/table[@class=&quot;table table-hover&quot;]/thead[1]/tr[@class=&quot;tableInputHead&quot;]/th[4]/div[@class=&quot;inputError&quot;]</value>
+      <webElementGuid>baf394d8-e0ea-497c-8acb-34b82ea70e6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div[4]/div/div[2]/div/div/div[2]/div/table/thead/tr[2]/th[4]/div</value>
+      <webElementGuid>e0633b91-1f0b-4020-bf8c-8f297d534c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/div</value>
+      <webElementGuid>18099f26-2440-4be9-992c-671ebb330f78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

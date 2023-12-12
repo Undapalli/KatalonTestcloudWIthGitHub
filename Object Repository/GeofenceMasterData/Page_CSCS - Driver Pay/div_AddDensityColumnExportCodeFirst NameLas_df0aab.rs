@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AddDensityColumnExportCodeFirst NameLas_df0aab</name>
+   <tag></tag>
+   <elementGuidId>70bb6699-a673-4794-94eb-a4451c6b372e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cbb6aced-f857-4a7b-beb2-823d8138f6b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body </value>
+      <webElementGuid>f06789cf-6000-4ee6-8dfc-c023661a9598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AddDensityColumnExportCodeFirst NameLast NameEmployee TypeEmailPhone NumberSavePersonalPublicAdd Filter    New Filteraaa      Save This FilterClearApplyCode    First Name    Last Name    Employee Type    Email    Phone Number     ActionplantOp_123kellydobbyConstruction Worker Xkelly1234@gmail.com+15675873457  plant_OPLucasmatchellaQAEngineer_765lucas@gmail.com+15675893457  emp_234kellydobbyConstruction Worker Maxraabc@gmail.com+15675893456  Jemp_5097CaseyPadbergJessica_Moore@hotmail.com6438178361  code_38updatedFirstName_161updatedLastName_233updated420@example.com  code_939updatedFirstName_530updatedLastName_165updated427@example.com  code_59updatedFirstName_567updatedLastName_811updated92@example.com  code_594updatedFirstName_193updatedLastName_73updated496@example.com  code_909firstName_817lastName_973random639@example.com  code_779updatedFirstName_709updatedLastName_758updated95@example.com  code_409firstName_762lastName_794random33@example.com  code_617firstName_713lastName_5random87@example.com  Eemp_2086GrahamSchuppeJayden71@hotmail.com  Iemp_6361AdolfoWelchWilfrid.Leannon@yahoo.com5563164844  code_79firstName_835lastName_328random873@example.com  code_803firstName_89lastName_874random251@example.com  code_608firstName_326lastName_998random541@example.com  code_488firstName_427lastName_520random548@example.com  Eemp_9032HaylieHalvorsonStephan_Reichel86@gmail.com9570896979  Hemp_4411AlvinaHermannSeth40@yahoo.com0774969780  Rows 102040100     1   of  12      </value>
+      <webElementGuid>91fd1095-f718-472c-8d3d-a4e18cbdd2d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;sidePage&quot;]/div[@class=&quot;sidebody&quot;]/div[1]/div[@class=&quot;tableContainer densityStandard&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>4f91039e-6970-407c-acb8-8322abc05b32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>b8be4bc2-82a2-402f-afc0-07d46b8a3876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>cfa7e855-be6f-4fb1-8700-a6c15b1c050e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AddDensityColumnExportCodeFirst NameLast NameEmployee TypeEmailPhone NumberSavePersonalPublicAdd Filter    New Filteraaa      Save This FilterClearApplyCode    First Name    Last Name    Employee Type    Email    Phone Number     ActionplantOp_123kellydobbyConstruction Worker Xkelly1234@gmail.com+15675873457  plant_OPLucasmatchellaQAEngineer_765lucas@gmail.com+15675893457  emp_234kellydobbyConstruction Worker Maxraabc@gmail.com+15675893456  Jemp_5097CaseyPadbergJessica_Moore@hotmail.com6438178361  code_38updatedFirstName_161updatedLastName_233updated420@example.com  code_939updatedFirstName_530updatedLastName_165updated427@example.com  code_59updatedFirstName_567updatedLastName_811updated92@example.com  code_594updatedFirstName_193updatedLastName_73updated496@example.com  code_909firstName_817lastName_973random639@example.com  code_779updatedFirstName_709updatedLastName_758updated95@example.com  code_409firstName_762lastName_794random33@example.com  code_617firstName_713lastName_5random87@example.com  Eemp_2086GrahamSchuppeJayden71@hotmail.com  Iemp_6361AdolfoWelchWilfrid.Leannon@yahoo.com5563164844  code_79firstName_835lastName_328random873@example.com  code_803firstName_89lastName_874random251@example.com  code_608firstName_326lastName_998random541@example.com  code_488firstName_427lastName_520random548@example.com  Eemp_9032HaylieHalvorsonStephan_Reichel86@gmail.com9570896979  Hemp_4411AlvinaHermannSeth40@yahoo.com0774969780  Rows 102040100     1   of  12      ' or . = 'AddDensityColumnExportCodeFirst NameLast NameEmployee TypeEmailPhone NumberSavePersonalPublicAdd Filter    New Filteraaa      Save This FilterClearApplyCode    First Name    Last Name    Employee Type    Email    Phone Number     ActionplantOp_123kellydobbyConstruction Worker Xkelly1234@gmail.com+15675873457  plant_OPLucasmatchellaQAEngineer_765lucas@gmail.com+15675893457  emp_234kellydobbyConstruction Worker Maxraabc@gmail.com+15675893456  Jemp_5097CaseyPadbergJessica_Moore@hotmail.com6438178361  code_38updatedFirstName_161updatedLastName_233updated420@example.com  code_939updatedFirstName_530updatedLastName_165updated427@example.com  code_59updatedFirstName_567updatedLastName_811updated92@example.com  code_594updatedFirstName_193updatedLastName_73updated496@example.com  code_909firstName_817lastName_973random639@example.com  code_779updatedFirstName_709updatedLastName_758updated95@example.com  code_409firstName_762lastName_794random33@example.com  code_617firstName_713lastName_5random87@example.com  Eemp_2086GrahamSchuppeJayden71@hotmail.com  Iemp_6361AdolfoWelchWilfrid.Leannon@yahoo.com5563164844  code_79firstName_835lastName_328random873@example.com  code_803firstName_89lastName_874random251@example.com  code_608firstName_326lastName_998random541@example.com  code_488firstName_427lastName_520random548@example.com  Eemp_9032HaylieHalvorsonStephan_Reichel86@gmail.com9570896979  Hemp_4411AlvinaHermannSeth40@yahoo.com0774969780  Rows 102040100     1   of  12      ')]</value>
+      <webElementGuid>34f9b02c-2141-4517-9787-9ec963497873</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

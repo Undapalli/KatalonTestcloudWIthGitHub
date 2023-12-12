@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Project - Construction_2345 EditCodepro_fb032d</name>
+   <tag></tag>
+   <elementGuidId>65737aa6-1a5d-43f9-ac06-3833090e0aed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sidebody</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3eb4dd84-f248-4551-8825-74ea548c6413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebody</value>
+      <webElementGuid>fbe3a37d-b654-49c7-9a24-afc654768a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Project - Construction_2345 EditCodeproj_4567NameConstruction_2345StatusApprovedDescriptionLocation436, hyjg, fjufg, Ontario, CanadaProject PriorityMediumProject TypeprojectType_dutmqPlanned Cost67000.00 USDStart Date11/20/2023 End Date11/20/2024 Contact PersonCode:emp_234First Name:kellyLast Name:dobbyEmail:raabc@gmail.comPhone Number:+15675893456Location:ManagerCode:Cemp_9685First Name:FredrickLast Name:HermannEmail:Cristal47@gmail.comPhone Number:4718967766Location:5998 Favian Villages, 45534 Hahn Valley, Kennedimouth, Stratford, South Georgia and the South Sandwich IslandsAsset RequirementsProject ActivitiesDocumentTotal Planned Asset Cost : 30000 USDNumber Of Assets    Asset Type    Start Date    End Date    Planned Asset Cost    4assetType_du89j30u11/22/2023 11/23/2023  30000 USDApproveReject</value>
+      <webElementGuid>a2368989-f091-489d-a278-182f741d7e82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;sidePage&quot;]/div[@class=&quot;sidebody&quot;]</value>
+      <webElementGuid>16f65735-4e18-4a43-8fc4-a7616f549dbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>721d39c7-6d83-4fa2-b7cc-7b5f91880124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>8a51a415-7621-4c8b-b063-8a22bda39db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Project - Construction_2345 EditCodeproj_4567NameConstruction_2345StatusApprovedDescriptionLocation436, hyjg, fjufg, Ontario, CanadaProject PriorityMediumProject TypeprojectType_dutmqPlanned Cost67000.00 USDStart Date11/20/2023 End Date11/20/2024 Contact PersonCode:emp_234First Name:kellyLast Name:dobbyEmail:raabc@gmail.comPhone Number:+15675893456Location:ManagerCode:Cemp_9685First Name:FredrickLast Name:HermannEmail:Cristal47@gmail.comPhone Number:4718967766Location:5998 Favian Villages, 45534 Hahn Valley, Kennedimouth, Stratford, South Georgia and the South Sandwich IslandsAsset RequirementsProject ActivitiesDocumentTotal Planned Asset Cost : 30000 USDNumber Of Assets    Asset Type    Start Date    End Date    Planned Asset Cost    4assetType_du89j30u11/22/2023 11/23/2023  30000 USDApproveReject' or . = 'Project - Construction_2345 EditCodeproj_4567NameConstruction_2345StatusApprovedDescriptionLocation436, hyjg, fjufg, Ontario, CanadaProject PriorityMediumProject TypeprojectType_dutmqPlanned Cost67000.00 USDStart Date11/20/2023 End Date11/20/2024 Contact PersonCode:emp_234First Name:kellyLast Name:dobbyEmail:raabc@gmail.comPhone Number:+15675893456Location:ManagerCode:Cemp_9685First Name:FredrickLast Name:HermannEmail:Cristal47@gmail.comPhone Number:4718967766Location:5998 Favian Villages, 45534 Hahn Valley, Kennedimouth, Stratford, South Georgia and the South Sandwich IslandsAsset RequirementsProject ActivitiesDocumentTotal Planned Asset Cost : 30000 USDNumber Of Assets    Asset Type    Start Date    End Date    Planned Asset Cost    4assetType_du89j30u11/22/2023 11/23/2023  30000 USDApproveReject')]</value>
+      <webElementGuid>7dd35c04-1058-4c08-b290-f90a32c8941c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

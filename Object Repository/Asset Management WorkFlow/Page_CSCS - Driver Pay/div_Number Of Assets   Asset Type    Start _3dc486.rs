@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Number Of Assets   Asset Type    Start _3dc486</name>
+   <tag></tag>
+   <elementGuidId>2c4a016b-b060-4fc4-839c-796783c9362b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-table-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div[4]/div/div[2]/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c7f11834-18fb-4189-aa65-5494333e608d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-table-wrapper</value>
+      <webElementGuid>cbd0a901-d0a4-4270-8417-152f6fe9878c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Number Of Assets    Asset Type *    Start Date *    End Date *    Planned Asset Cost *     Action assetType_5fu8scUSDAddClear</value>
+      <webElementGuid>46a47d08-2b80-462a-97e0-c656197c6562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/div[1]/div[@class=&quot;sideContainer&quot;]/div[@class=&quot;sidePage&quot;]/div[@class=&quot;sidebody&quot;]/div[4]/div[@class=&quot;componentWrapper&quot;]/div[@class=&quot;borderWrapper&quot;]/div[@class=&quot;tableContainer densityStandard&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;outer-wrapper&quot;]/div[@class=&quot;input-table-wrapper&quot;]</value>
+      <webElementGuid>16ee1f54-65ee-4f43-bc18-66a0f442d37d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div[2]/div[4]/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>ae97069c-75fa-46a3-b344-1638b53109fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>527353d9-53ac-4835-9f0f-bd5a1fa137f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Number Of Assets    Asset Type *    Start Date *    End Date *    Planned Asset Cost *     Action assetType_5fu8scUSDAddClear' or . = 'Number Of Assets    Asset Type *    Start Date *    End Date *    Planned Asset Cost *     Action assetType_5fu8scUSDAddClear')]</value>
+      <webElementGuid>4f1a3faf-5189-4378-8c3b-21c35fc21de9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

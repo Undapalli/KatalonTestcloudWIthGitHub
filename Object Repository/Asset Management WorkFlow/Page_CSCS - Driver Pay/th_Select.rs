@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Select</name>
+   <tag></tag>
+   <elementGuidId>f6d7ab3c-56e2-4f42-8bc2-8cdd0ab407fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.table-wrapper > table.table.table-hover > thead > tr > th</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='portal']/div/div/div[2]/div[2]/div/div/table/thead/tr/th</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>ed538299-1310-4f65-8ae3-ba9c551f51f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select </value>
+      <webElementGuid>ea31fe99-2143-4229-a7b6-631847f14f6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;portal&quot;)/div[@class=&quot;ModalContainer&quot;]/div[@class=&quot;ModalWrapper&quot;]/div[@class=&quot;ModalContent&quot;]/div[@class=&quot;modal_selectTable tableContainer&quot;]/div[@class=&quot;outer-wrapper&quot;]/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;table table-hover&quot;]/thead[1]/tr[1]/th[1]</value>
+      <webElementGuid>3b2ad521-76a3-4b75-a296-a12289a40355</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='portal']/div/div/div[2]/div[2]/div/div/table/thead/tr/th</value>
+      <webElementGuid>c5ac00f1-b55c-4484-afc1-93b220198b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/table/thead/tr/th</value>
+      <webElementGuid>fb34a384-24f0-4be6-b563-c5d3550631bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Select ' or . = 'Select ')]</value>
+      <webElementGuid>8792a3b4-4bfe-4a99-bf0a-2c8791a11d16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

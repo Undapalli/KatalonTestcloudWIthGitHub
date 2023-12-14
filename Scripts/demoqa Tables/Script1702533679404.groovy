@@ -19,14 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://demoqa.com/webtables')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://get.estreamly.com/')
+WebUI.click(findTestObject('Object Repository/demoqa Tables/Page_DEMOQA/path'))
 
-WebUI.click(findTestObject('Object Repository/Esgtremly pricing/Page_Home - eStreamly  Shoppable Videos and_9c513d/a_Resources'))
-
-WebUI.click(findTestObject('Object Repository/Esgtremly pricing/Page_Home - eStreamly  Shoppable Videos and_9c513d/a_Podcast'))
+WebUI.click(findTestObject('Object Repository/demoqa Tables/Page_DEMOQA/button_Submit'))
 
 WebUI.closeBrowser()
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Estreamly Product</name>
+   <name>demoqa</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>3cfc3867-ac3c-4c37-828c-ba9d76ad6a8c</testSuiteGuid>
+   <testSuiteGuid>3e680213-a3a2-43c7-9646-a73cc8aa8531</testSuiteGuid>
    <testCaseLink>
-      <guid>4d32630d-d0b0-4a24-bcf5-666d88175b4c</guid>
+      <guid>b95f3b5f-01c5-4442-9f18-43d036b749f3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Estreamly Product</testCaseId>
+      <testCaseId>Test Cases/demoQA text</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fe174c75-12db-42bd-974b-8bd8cefa0776</guid>
+      <guid>9476b3c8-3848-438e-8c1e-82567d3ca1e4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/demoqa Tables</testCaseId>
+      <testCaseId>Test Cases/Demoqa</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

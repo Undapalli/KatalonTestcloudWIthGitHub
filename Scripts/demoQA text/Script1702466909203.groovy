@@ -19,14 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://demoqa.com/text-box')
 
-WebUI.maximizeWindow()
+WebUI.setText(findTestObject('Object Repository/DemoQA text/Page_DEMOQA/inputuserName'), 'Ram')
 
-WebUI.navigateToUrl('https://get.estreamly.com/')
+WebUI.setText(findTestObject('Object Repository/DemoQA text/Page_DEMOQA/inputuserEmail_1'), 'Ram@gmail.com')
 
-WebUI.click(findTestObject('Object Repository/Esgtremly pricing/Page_Home - eStreamly  Shoppable Videos and_9c513d/a_Resources'))
-
-WebUI.click(findTestObject('Object Repository/Esgtremly pricing/Page_Home - eStreamly  Shoppable Videos and_9c513d/a_Podcast'))
 
 WebUI.closeBrowser()
-

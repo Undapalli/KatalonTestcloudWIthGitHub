@@ -23,7 +23,6 @@ WebUI.navigateToUrl('https://get.estreamly.com/')
 
 WebUI.click(findTestObject('Object Repository/Watch Module/Page_Home - eStreamly  Shoppable Videos and_9c513d/a_Watch'))
 
-WebUI.click(findTestObject('Object Repository/Watch Module/Page_eStreamly , Shoppable Videos and Livestream/img'))
 
 
 

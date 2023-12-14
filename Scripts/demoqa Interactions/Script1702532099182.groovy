@@ -19,14 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://demoqa.com/')
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Object Repository/Demoqa Interactions/Page_DEMOQA/div_Interactions'))
 
-WebUI.navigateToUrl('https://get.estreamly.com/')
+WebUI.click(findTestObject('Object Repository/Demoqa Interactions/Page_DEMOQA/li_Sortable'))
 
-WebUI.click(findTestObject('Object Repository/Esgtremly pricing/Page_Home - eStreamly  Shoppable Videos and_9c513d/a_Resources'))
-
-WebUI.click(findTestObject('Object Repository/Esgtremly pricing/Page_Home - eStreamly  Shoppable Videos and_9c513d/a_Podcast'))
+WebUI.click(findTestObject('Object Repository/Demoqa Interactions/Page_DEMOQA/div_OneTwoThreeFourFiveSix'))
 
 WebUI.closeBrowser()
 

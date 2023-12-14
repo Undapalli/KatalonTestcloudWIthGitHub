@@ -55,21 +55,30 @@ WebUI.click(findTestObject('Object Repository/CSCS Application/Page_CSCS - Drive
 
 WebUI.click(findTestObject('Object Repository/CSCS Application/Page_CSCS - Driver Pay/span_Work Order Status'))
 
-WebUI.click(findTestObject('Object Repository/CSCS Application/Page_CSCS - Driver Pay/span_ps-submenu-expand-icon ps-open css-1cuxlhl'))
-
-
-WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver Pay/span_css-honxw6'))
-
-WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver Pay/span_Asset'))
-
-WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver Pay/span_Assets'))
-
-WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver Pay/button_Add'))
-
-WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver Pay/span_Assets'))
-
-
-WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver Pay/button_Update'))
+/*
+ * WebUI.click(findTestObject('Object Repository/CSCS Application/Page_CSCS -
+ * Driver Pay/span_ps-submenu-expand-icon ps-open css-1cuxlhl'))
+ * 
+ * 
+ * WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver
+ * Pay/span_css-honxw6'))
+ * 
+ * WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver
+ * Pay/span_Asset'))
+ * 
+ * WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver
+ * Pay/span_Assets'))
+ * 
+ * WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver
+ * Pay/button_Add'))
+ * 
+ * WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver
+ * Pay/span_Assets'))
+ * 
+ * 
+ * WebUI.click(findTestObject('Object Repository/Page_CSCS - Driver
+ * Pay/button_Update'))
+ */
 
 WebUI.closeBrowser()
 

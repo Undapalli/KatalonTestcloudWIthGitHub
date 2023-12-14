@@ -18,15 +18,14 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
-
-
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://get.estreamly.com/')
+WebUI.navigateToUrl('https://demoqa.com/checkbox')
 
-WebUI.click(findTestObject('Object Repository/Esgtremly pricing/Page_Home - eStreamly  Shoppable Videos and_9c513d/a_Resources'))
 
-WebUI.click(findTestObject('Object Repository/Esgtremly pricing/Page_Home - eStreamly  Shoppable Videos and_9c513d/a_Podcast'))
+
+WebUI.click(findTestObject('Object Repository/Demo qa checkbox repo/Page_DEMOQA/svg_rct-icon rct-icon-expand-close'))
+
 
 WebUI.closeBrowser()
 

@@ -29,5 +29,5 @@ WebUI.click(findTestObject('Object Repository/Orange Hrm login/Page_OrangeHRM/bu
 
 WebUI.closeBrowser()
 
-WebUI.acceptAlert()
+
 

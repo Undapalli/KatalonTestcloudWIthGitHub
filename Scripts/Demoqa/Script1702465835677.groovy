@@ -19,14 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://demoqa.com/automation-practice-form')
 
-WebUI.maximizeWindow()
+WebUI.setText(findTestObject('Object Repository/Demoqa/Page_DEMOQA/inputfirstName'), 'ra')
 
-WebUI.navigateToUrl('https://get.estreamly.com/')
+WebUI.setText(findTestObject('Object Repository/Demoqa/Page_DEMOQA/inputlastName'), 'jy')
 
-WebUI.click(findTestObject('Object Repository/Esgtremly pricing/Page_Home - eStreamly  Shoppable Videos and_9c513d/a_Resources'))
-
-WebUI.click(findTestObject('Object Repository/Esgtremly pricing/Page_Home - eStreamly  Shoppable Videos and_9c513d/a_Podcast'))
+WebUI.setText(findTestObject('Object Repository/Demoqa/Page_DEMOQA/inputuserEmail'), 'ar@gmail.com')
 
 WebUI.closeBrowser()
+
+
 

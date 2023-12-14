@@ -31,4 +31,3 @@ WebUI.click(findTestObject('Object Repository/CSCS Application Automation/Page_C
 
 WebUI.click(findTestObject('Object Repository/CSCS Application Automation/Page_CSCS - Driver Pay/svg_sidebarMenuIcon'))
 
-WebUI.click(findTestObject('Object Repository/CSCS Application Automation/Page_CSCS - Driver Pay/span_Setup'))

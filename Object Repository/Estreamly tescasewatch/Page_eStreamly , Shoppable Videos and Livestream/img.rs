@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>18363d53-97bd-4469-b18e-50b5fd8f7a90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bodyContainer']/app-watch/div/section/div/swiper/div[2]/div[2]/div/div[3]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-slide.ng-star-inserted.swiper-slide-next > div.ng-star-inserted > div.shows-play-btn > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c65d8fbd-d593-48ec-b74d-13ae6ae5e2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../assets/images/play icon.png</value>
+      <webElementGuid>d6f4d81f-1638-440e-b5c6-9e9c1847e6d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>436cc738-4b54-4e56-9a8b-fee2224a1a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bodyContainer&quot;)/app-watch[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;watch-page&quot;]/section[@class=&quot;latest-shows p-0&quot;]/div[1]/swiper[@class=&quot;swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide ng-star-inserted swiper-slide-next&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;shows-play-btn&quot;]/img[1]</value>
+      <webElementGuid>ecf1a6be-77a6-4553-a69f-85a40b16d6b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyContainer']/app-watch/div/section/div/swiper/div[2]/div[2]/div/div[3]/img</value>
+      <webElementGuid>d16f9cc9-e9a9-4879-b1e5-41289687b449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/img</value>
+      <webElementGuid>369cf475-303c-466d-aef0-3429e11da4f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../assets/images/play icon.png']</value>
+      <webElementGuid>c1d7f0ad-7f8b-4507-bd9b-dba443c40dba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

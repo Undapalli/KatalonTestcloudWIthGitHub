@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Monday</name>
+   <tag></tag>
+   <elementGuidId>6db3c6fa-c8b6-4ea5-825e-86820df5cc96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q15']/table/tbody/tr[2]/td/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#q15 > table.inline_grid.choices > tbody > tr:nth-of-type(2) > td > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d4e6a28a-b2b7-4dc5-a138-855b20cb0e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>RESULT_CheckBox-8_1</value>
+      <webElementGuid>3c676d12-a9db-4efe-a6eb-d74fa81e189f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monday</value>
+      <webElementGuid>546fc0ff-2453-45c6-bef5-75644f3980a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q15&quot;)/table[@class=&quot;inline_grid choices&quot;]/tbody[1]/tr[2]/td[1]/label[1]</value>
+      <webElementGuid>5e789405-8118-4c87-8461-c1f6d688b367</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q15']/table/tbody/tr[2]/td/label</value>
+      <webElementGuid>5ce9dd61-fd40-499d-8ade-f2c8d5b023ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/table/tbody/tr[2]/td/label</value>
+      <webElementGuid>bb00567f-7fc1-4b7a-a202-e97ff53fd008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Monday' or . = 'Monday')]</value>
+      <webElementGuid>1d9d162f-8956-47f5-b047-34b65cfea04e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

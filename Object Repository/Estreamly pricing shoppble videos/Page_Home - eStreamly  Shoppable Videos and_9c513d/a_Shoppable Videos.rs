@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shoppable Videos</name>
+   <tag></tag>
+   <elementGuidId>964b4bb0-1b8b-4df4-80a0-11146c90d7f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-810']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-810 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>95b0bf4c-55ba-40f2-b8ea-6509983e2aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://get.estreamly.com/shoppable-videos/</value>
+      <webElementGuid>5c8d8acc-a264-4a13-81ba-73c9b6fc4867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shoppable Videos</value>
+      <webElementGuid>b84b3cc2-822d-490f-a524-12527b6c8db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-810&quot;)/a[1]</value>
+      <webElementGuid>b26657e8-374d-41e3-a2b9-95b317c7027d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-810']/a</value>
+      <webElementGuid>0a403250-fa75-4fb9-b8df-194213f80752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shoppable Videos')]</value>
+      <webElementGuid>9085d9c5-95c7-4e3e-b52a-f653d02788f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://get.estreamly.com/shoppable-videos/')]</value>
+      <webElementGuid>4596abb1-7c38-45e7-b2ce-cc2ca2eaf650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]/a</value>
+      <webElementGuid>eb580a36-e0b4-4484-aac0-f7ce50dffae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://get.estreamly.com/shoppable-videos/' and (text() = 'Shoppable Videos' or . = 'Shoppable Videos')]</value>
+      <webElementGuid>a13e11ca-bb15-428c-a2a5-d04c82d7d2b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

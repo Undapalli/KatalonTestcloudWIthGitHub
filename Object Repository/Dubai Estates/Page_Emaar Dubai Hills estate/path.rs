@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>cff3aa9e-528f-4a1b-83eb-e683d5f17593</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>2479801d-8efc-4e43-a674-e7af332e8550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M2419 3387 c-72 -59 -344 -284 -584 -482 -60 -50 -254 -210 -430 -355 -176 -145 -323 -269 -328 -274 -4 -6 -6 -291 -5 -633 3 -613 3 -622 24 -650 11 -15 36 -38 54 -50 l33 -23 498 0 499 0 0 475 0 475 320 0 320 0 0 -475 0 -475 495 0 c551 0 532 -2 580 67 l25 38 0 626 0 627 -282 233 c-156 128 -332 274 -393 324 -306 254 -745 615 -747 615 -2 -1 -37 -29 -79 -63z</value>
+      <webElementGuid>bbc5391b-7d05-44d3-ae03-6fde71c2a04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--open theme--light resize&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;v-list menu py-0 v-sheet theme--light&quot;]/a[@class=&quot;v-list-item--active v-list-item v-list-item--link theme--light&quot;]/div[@class=&quot;v-list-item__icon&quot;]/svg[1]/g[1]/path[2]</value>
+      <webElementGuid>8daa592d-139c-44fa-b10a-223419de18df</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

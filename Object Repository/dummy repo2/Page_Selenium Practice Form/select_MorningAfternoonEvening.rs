@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_MorningAfternoonEvening</name>
+   <tag></tag>
+   <elementGuidId>df3d07fc-bc6b-4323-88d8-3701c5517fb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='RESULT_RadioButton-9']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#RESULT_RadioButton-9</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b8e34ac6-54e0-4d77-92d0-2bcfaf3ec687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>RESULT_RadioButton-9</value>
+      <webElementGuid>9035d9d1-102e-40b8-9664-af026f9dc04e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>RESULT_RadioButton-9</value>
+      <webElementGuid>a52db557-5e85-4563-98f3-7246010736b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>drop_down</value>
+      <webElementGuid>b9a608b6-7009-493b-b79e-844c35e8b296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Morning
+Afternoon
+Evening
+</value>
+      <webElementGuid>fe2981fe-cdc2-42e8-930c-cfc4ec88ce44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RESULT_RadioButton-9&quot;)</value>
+      <webElementGuid>785be2ca-7113-4ff9-a7d3-ab6800accd70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='RESULT_RadioButton-9']</value>
+      <webElementGuid>97eea1d8-3c6f-4925-8323-c7036a328569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q11']/select</value>
+      <webElementGuid>611257bb-2330-418d-822c-ab3c185cdcac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>98f37fe0-c4dd-41a6-b770-1deb8b3becb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'RESULT_RadioButton-9' and @name = 'RESULT_RadioButton-9' and (text() = '
+
+Morning
+Afternoon
+Evening
+' or . = '
+
+Morning
+Afternoon
+Evening
+')]</value>
+      <webElementGuid>26ece034-9bc7-48bc-8c0e-620bd5486aff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

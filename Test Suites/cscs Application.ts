@@ -18,4 +18,23 @@
       <testCaseId>Test Cases/CSCS Application</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>44de0f92-b713-4730-b81d-cc92631b0f1c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CSCS</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b004d4ec-a29f-4067-bb60-d15c017d7a77</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c7f2fe8c-790d-45ce-84b5-c739937077ce</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>cscs Application Data Driven test</name>
+   <name>New Test Suite 31</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
-   <pageLoadTimeout>20</pageLoadTimeout>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>651e57a4-3f17-4c35-9518-b134fad1f71a</testSuiteGuid>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f6f9b84f-cbf1-4d0e-99f5-e78d895b6a7c</testSuiteGuid>
 </TestSuiteEntity>

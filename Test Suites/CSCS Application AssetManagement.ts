@@ -36,4 +36,11 @@
          <variableId>9d5634f4-c801-42b6-8ede-5508270f8eaf</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>b6140312-8ab9-4b7b-9012-d11952db0e30</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demoqa Buttons</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_v-icon notranslate mdi mdi-map-marker the_ebbaae</name>
+   <tag></tag>
+   <elementGuidId>0ea074da-e31b-47a8-9df1-e219e84aa3e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/nav/div/div[2]/a[4]/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-map-marker.theme--light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e6f246c0-377a-415d-8fc6-01b831f0feb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8d746ac0-6ece-4d6a-a76d-6c24b9d684b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-map-marker theme--light</value>
+      <webElementGuid>0121339a-8f28-4355-a7ce-266927dbca30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--open theme--light resize&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;v-list menu py-0 v-sheet theme--light&quot;]/a[@class=&quot;v-list-item v-list-item--link theme--light&quot;]/div[@class=&quot;v-list-item__icon mx-auto&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-map-marker theme--light&quot;]</value>
+      <webElementGuid>7698b1a4-d07b-4c6b-9caf-463c2da8e405</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/nav/div/div[2]/a[4]/div/i</value>
+      <webElementGuid>9930fed9-c9d4-44fa-ba6b-029e896bdf0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/div/i</value>
+      <webElementGuid>6973b77c-45a8-4e7b-a756-19baa7edc7eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
